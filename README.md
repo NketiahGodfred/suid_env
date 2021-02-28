@@ -1,4 +1,4 @@
-# suid-_env
+# suid_env
 
 In command prompt type: mkdir /home/user/.config
 In command prompt type: cd /home/user/.config
